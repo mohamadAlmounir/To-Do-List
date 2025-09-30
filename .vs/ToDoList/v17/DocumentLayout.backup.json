@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C36DF-9D18-4592-82EF-6DCFC18BB00E}|ToDoList.Core\\ToDoList.Core.csproj|c:\\users\\a\\source\\repos\\todolist\\todolist.core\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C36DF-9D18-4592-82EF-6DCFC18BB00E}|ToDoList.Core\\ToDoList.Core.csproj|solutionrelative:todolist.core\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|c:\\users\\a\\source\\repos\\todolist\\todolist\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|c:\\users\\a\\source\\repos\\todolist\\todolist\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|c:\\users\\a\\source\\repos\\todolist\\todolist\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|c:\\users\\a\\source\\repos\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FA1CE8-7039-432A-AD17-618CF59DA390}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList.Core\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "ToDoList.Core\\Dtos\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList.Core\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "ToDoList.Core\\Dtos\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:26:24.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:47:21.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:35:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T00:13:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T23:13:35.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

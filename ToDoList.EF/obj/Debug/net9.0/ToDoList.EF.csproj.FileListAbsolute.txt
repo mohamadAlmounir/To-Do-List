@@ -1,0 +1,15 @@
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\bin\Debug\net9.0\ToDoList.EF.deps.json
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\bin\Debug\net9.0\ToDoList.EF.dll
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\bin\Debug\net9.0\ToDoList.EF.pdb
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\bin\Debug\net9.0\ToDoList.Core.dll
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\bin\Debug\net9.0\ToDoList.Core.pdb
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.AssemblyInfo.cs
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.D07E1356.Up2Date
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.dll
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\refint\ToDoList.EF.dll
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ToDoList.EF.pdb
+C:\Users\a\source\repos\ToDoList\ToDoList.EF\obj\Debug\net9.0\ref\ToDoList.EF.dll
